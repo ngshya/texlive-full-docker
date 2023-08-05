@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "editor.indentSize": "tabSize", 
+    "editor.wordWrap": "on",
+    "editor.rulers": [80, 120],
+    "keyboard.layout": "es",    
+    "latex-workshop.view.pdf.hand": true,
+    "latex-workshop.view.pdf.ref.viewer": "tabOrBrowser",
+    "latex-workshop.view.pdf.viewer": "browser",
+}
