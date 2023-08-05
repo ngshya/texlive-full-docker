@@ -12,6 +12,6 @@ RUN code-server --install-extension eamodio.gitlens \
                 --install-extension zhuangtongfa.material-theme \ 
                 --install-extension anwar.resourcemonitor \ 
                 --install-extension gruntfuggly.todo-tree \
-                --james-yu.latex-workshop
+                --install-extension james-yu.latex-workshop
 EXPOSE 65002
 CMD code-server --host 0.0.0.0 --port 65002 --auth none
