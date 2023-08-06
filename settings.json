@@ -8,4 +8,5 @@
     "latex-workshop.view.pdf.ref.viewer": "tabOrBrowser",
     "latex-workshop.view.pdf.viewer": "browser",
     "workbench.startupEditor": "none",
+    "latex-workshop.viewer.pdf.internal.port": 65003,
 }
