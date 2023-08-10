@@ -9,4 +9,5 @@
     "latex-workshop.view.pdf.viewer": "browser",
     "workbench.startupEditor": "none",
     "latex-workshop.viewer.pdf.internal.port": 65003,
+    "latex-workshop.latex.autoBuild.run": "never",
 }
